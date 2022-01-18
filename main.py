@@ -11,6 +11,6 @@ if __name__ == '__main__':
         print(f"a={argv[1]}")
         print(f"b={argv[2]}")
         c = func(x,b)
-        print(f"add(a,b)={c}"
+        print(f"add(a,b)={c}")
     else:
         print("usage: cmd a b")
