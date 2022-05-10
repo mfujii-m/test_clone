@@ -5,6 +5,10 @@ def func(a, b):
     return a + b
 
 
+def func2(a, b):
+    return a * b
+
+
 if __name__ == '__main__':
     args = sys.argv
     if len(args) >= 2:
